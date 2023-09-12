@@ -1,0 +1,63 @@
+h1{
+    color: pink;
+    background-color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 60px;
+    padding-top: 30px;
+    padding-right: 20px;
+    padding-left: 50px;
+    padding-bottom: 100px;
+
+    text-align: center;
+    text-transform: uppercase;
+
+    margin: auto;
+    width: 60%;
+}
+p{
+    color: blue;
+    background-color: whitesmoke;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: justify;
+}
+body{
+    width: auto77;
+    background-image: url("https://i.pinimg.com/originals/dd/bf/8a/ddbf8a8222cee04313c1349324399d76.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center left top;
+    padding: 150px;
+
+}
+.firstParagraph{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+.secondParagraph{
+    color: skyblue;
+    background-color: navy;
+    font-family: sans-serif;
+}
+ul{
+    margin: 10px;
+    padding: 10px;
+    overflow: hidden;
+    background-color: rgb(25, 25, 25);
+    list-style-type: none;
+}
+li{
+    float: left;
+    padding: 10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-transform: uppercase;
+}
+li a{
+    color: rgb(240 , 240, 240);
+}
+li a :hover{
+    background-color: orange;
+}
